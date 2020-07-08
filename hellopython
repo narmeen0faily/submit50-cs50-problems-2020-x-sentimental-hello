@@ -1,0 +1,11 @@
+# Prints "hello, world"
+
+
+def main():
+    print("hello, world")
+print("what’s your name ")
+print("my name is narmeen ")
+print("hello David ")
+
+if __name__ == "__main__":
+    main()
